@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538356627305",
+    "firebase_url": "https://test-brew-crew-7686d.firebaseio.com",
+    "project_id": "test-brew-crew-7686d",
+    "storage_bucket": "test-brew-crew-7686d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538356627305:android:aba889eb40fafd0904aff8",
+        "android_client_info": {
+          "package_name": "com.oneseeker.brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538356627305-a03jcjadbvlm48e3hlmja5njgi4c8vqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCae6ARbj96nayHTXaZgaxhv9k59ii1Hzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538356627305-a03jcjadbvlm48e3hlmja5njgi4c8vqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
